@@ -7,4 +7,4 @@ npm run
 or just open the index.html in any browser.
 
 To run test in terminal run:
-npm test
+npm run eslint
